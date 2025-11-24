@@ -21,16 +21,16 @@ python app.py
 
 Open:
 
-http://127.0.0.1:5000
+http://127.0.0.1:8000
 
 2. Run with Docker
 docker build -t myapp .
-docker run -p 5000:5000 myapp
+docker run -p 8000:8000 myapp
 
 
 Open:
 
-http://localhost:5000
+http://localhost:8000
 
  CI Pipeline (GitHub Actions)
 
