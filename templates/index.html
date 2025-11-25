@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Web App - Snehal</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+<body>
+
+    <div class="container">
+        <h1>Welcome to my Web App 👋</h1>
+        <p>This is a simple frontend + backend project built by <b>Snehal</b>.</p>
+
+        <div class="card">
+            <h2>Project Features</h2>
+            <ul>
+                <li>Frontend UI using HTML/CSS</li>
+                <li>Flask backend</li>
+                <li>Docker containerization</li>
+                <li>CI/CD pipeline with GitHub Actions</li>
+            </ul>
+        </div>
+
+        <button id="btn">Click Me</button>
+        <p id="msg"></p>
+
+        <footer>
+            <p>Made with ❤️ by Snehal</p>
+        </footer>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
