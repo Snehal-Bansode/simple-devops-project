@@ -3,9 +3,12 @@ Simple DevOps Project
 Author: Snehal
 
 A small demo project to learn DevOps basics like containerization, CI pipeline, and running a simple Flask app.
-
+Also this project includes a basic frontend page (HTML/CSS) connected to a Flask backend.
 Tools Used:
 Python
+Html
+CSS
+JS
 Flask
 Docker
 
