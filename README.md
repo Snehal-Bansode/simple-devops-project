@@ -43,3 +43,6 @@ This project includes a simple CI workflow that installs Python packages and che
 
 I built this to learn DevOps and show my understanding of Flask + Docker + CI pipelines for job opportunities.
 
+<img width="1412" height="1093" alt="image" src="https://github.com/user-attachments/assets/3773a3ca-b572-413b-ba31-2ccf79ccc0db" />
+
+
